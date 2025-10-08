@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+qdrant-client
+httpx
+python-dotenv
+pydantic-settings
+python-multipart
+pyMuPDF 
+python-docx
+google-generativeai
+requests
+sentence-transformers
+numpy
+pdfplumber
